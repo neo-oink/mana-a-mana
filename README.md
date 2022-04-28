@@ -32,7 +32,7 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 5. another dozen of kids as *players*
 6. five non-playing kids/adults as *mana mages*
 
-\*if playing while standing small garden tables are enough
+\*if playing while standing, small garden tables are enough
 
 ## two vs four-factions variant
 |# of factions| 2 | 4 |
