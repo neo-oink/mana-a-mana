@@ -63,13 +63,13 @@ each faction tries to be the first one to have all its members to aquire all fiv
 #### 1. remove unused cards
 take all the cards with numbers up to the number of player per faction\*, then remove the rest. those cards will not be used. jokers are not used either;
 
-\*in general, the number of players divided by the number of factions. in case the division has a non-zero reminder, arbitrarily assign one player more to one of the factions until the number of cards matches exactly the number of players times two.
-
 #### 2. assign factions
 select from the remaining deck all the unique cards with the suits destined to the kids (i.e. ♥ and ♠), shuffle them and let all the kids take one. the suite of the card will determine their faction;
 
 #### 3. set the tables
 have each game master to sit at one of the tables and give each of them all the cards of one of the remaining suits. once the game masters are all ready, have the kids return the previously drawn card to the game master holding the table corresponding to its faction. the game can now start.
+
+\*in general, the number of players divided by the number of factions. in case the division has a non-zero reminder, arbitrarily assign one player more to one of the factions until the number of cards matches exactly the number of players times two.
 
 ### rounds
 each round and for each faction:
