@@ -43,9 +43,10 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 |suits for tables| ♦♣ | ♥♦♠♣
 
 ## preparation
-### minimal
+
+#### minimal
 1. cut the paper in small, short stripes to be folded into small finger-size cones, fixed in place with tape and in number greater or equal to the number of kids times five\* 
-### ideal
+#### ideal
 2. with the same approach of (1), assemble five big cones to be worn as hats by the five non-playing kids/adults
 3. paint the stones so to have five of every color for each table
 
