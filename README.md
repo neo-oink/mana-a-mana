@@ -1,5 +1,5 @@
 # mana-a-mana
-a party game for kids
+a party game for kids.
 
 ![](./mana-a-mana.svg)
 
