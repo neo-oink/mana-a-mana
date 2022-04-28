@@ -39,8 +39,8 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 |-------------|---|---|
 |# of poker decks required| 1 | 2
 |# of players|10 - 26|20 - 52|
-|suits for kids| ♡♠ | ♡♢♣♠
-|suits for tables| ♢♣ | ♡♢♣♠
+|suits for kids| ♥♠ | ♥♦♠♣
+|suits for tables| ♦♣ | ♥♦♠♣
 
 ## preparation
 ### minimal
