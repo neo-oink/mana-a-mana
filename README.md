@@ -77,12 +77,12 @@ each round and for each faction:
 1. the game master shuffles the cards for the kids and has every kid to draw one. they will keep this card until the end of the round;
 2. the game master shuffles the table cards, then draws them in sequence. every time a cars is drawn:
 
-   1. the game master calls the number out loud together with the kind representing the faction assigned to its table. if the kid who is holding the called-out card does not show up in the first few seconds, the game master can decide wether put the card e* just drawn in the bottom of the table deck, or just discard it for this round;
+   1. the game master calls the number out loud together with the kind representing the faction assigned to its table. if the kid who is holding the called-out card does not show up in the first few seconds, the game master can decide whether put the card e* just drawn in the bottom of the table deck, or just discard it for this round;
    2. the game master lets the kid choose where to place the drawn card on the table, given the following options:
       
       a. initiate a new pile for a mana that does not have a pile yet;
 
-      b. place the card on a pre-existing pile, given that cards can only be added at the top or at the bottom of the pile, and the piles must always be in order from the smallest (the "2", not considering the ace) to the greatest (the king, not considering the ace). as in many games using poker cards, aces count as both the highest and lowest number; in the case of a pile initiated with an ace, is up to the player that will eventually place a card on that pile to decide beween the two options;
+      b. place the card on a pre-existing pile, given that cards can only be added at the top or at the bottom of the pile, and the piles must always be in order from the smallest (the "2", not considering the ace) to the greatest (the king, not considering the ace). as in many games using poker cards, aces count as both the highest and lowest number; in the case of a pile initiated with an ace, is up to the player that will eventually place a card on that pile to decide between the two options;
 
       c. discard the drawn card. in this case, the kid also returns the card e was assigned at the beginning of the round.
 
@@ -90,6 +90,6 @@ each round and for each faction:
 
 3. once the last card from the deck has been placed on the board, for each pile, the game master gives one small cone of the mana color for that pile to all the kids with the cards of a number present in the pile. this it to be done as the kids return their round cards to the game master. there might be kids who would get a cone of a color they already have. if this happens while some other kid decided -or had no option other than- to return ir* card, the acquired cone can be give tho the second kid, instead. it will be the mana mages role to hand out the small cones to the kids after the game master declares the round to be over;
 
-4. at the end of a round all the kids with all five mana cones raise their hand (the one holding the cones on the tip of the fingers). if all the kids of a faction raise their hand, their fingers are checked to confirm that all the cones are there, then, irregolarities aside, they are declared winners.
+4. at the end of a round all the kids with all five mana cones raise their hand (the one holding the cones on the tip of the fingers). if all the kids of a faction raise their hand, their fingers are checked to confirm that all the cones are there, then, irregularities aside, they are declared winners.
 
 (*agender pronoun proposed [here](https://kappann.eu/pronomee) as an alternative to "they") 
