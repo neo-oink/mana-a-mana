@@ -9,30 +9,30 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 ### to build the extra material
 
 #### minimal
-1. at least one hour of time
-2. paper of five different colors
-3. scissors
-4. tape
+1. at least one hour of time;
+2. paper of five different colors;
+3. scissors;
+4. tape;
 
 #### ideal
-5. paint of the same five colors
-6. ten (or twenty) heavy stones to be used to prevent cards from flying\*
+5. paint of the same five colors;
+6. ten (or twenty) heavy stones to be used to prevent cards from flying\*.
 
-\*especially if playing outside, but also good for indoors
+\*especially if playing outside, but also good for indoors.
 
 ### during the game
 
 #### minimal
-1. one (or two) deck(s) of poker cards
-2. two (or four) separate tables\*
-5. two (or four) adults as *game masters*
-6. a dozen of kids as *players*
+1. one (or two) deck(s) of poker cards;
+2. two (or four) separate tables\*;
+5. two (or four) adults as *game masters*;
+6. a dozen of kids as *players*;
 
 #### ideal
-5. another dozen of kids as *players*
-6. five non-playing kids/adults as *mana mages*
+5. another dozen of kids as *players*;
+6. five non-playing kids/adults as *mana mages*.
 
-\*if playing while standing, small garden tables are enough
+\*if playing while standing, small garden tables are enough.
 
 ## two vs four-factions variant
 |# of factions| 2 | 4 |
@@ -45,12 +45,12 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 ## preparation
 
 #### minimal
-1. cut the paper in small, short stripes to be folded into small finger-size cones, fixed in place with tape and in number greater or equal to the number of kids times five\* 
+1. cut the paper in small, short stripes to be folded into small finger-size cones, fixed in place with tape and in number greater or equal to the number of kids times five\*;
 #### ideal
-2. with the same approach of (1), assemble five big cones to be worn as hats by the five non-playing kids/adults
-3. paint the stones so to have five of every color for each table
+2. with the same approach of (1), assemble five big cones to be worn as hats by the five non-playing kids/adults;
+3. paint the stones so to have five of every color for each table.
 
-\*each kid should be able to hold all five different cones on the fingers of an hand at the same time
+\*each kid should be able to hold all five different cones on the fingers of an hand at the same time.
 
 ## goal of the game
 each faction tries to be the first one to have all its members to aquire all five different *mana*. mana is represented by the small paper cones of the corresponding color, to be worn as finger-hats on the fingers of one hand.
@@ -60,12 +60,12 @@ each faction tries to be the first one to have all its members to aquire all fiv
 ### setup
 
 #### 1. remove unused cards
-take all the cards with numbers up to the number of player per faction\*, then remove the rest. those cards will not be used. jokers are not used either.
+take all the cards with numbers up to the number of player per faction\*, then remove the rest. those cards will not be used. jokers are not used either;
 
 \*in general, the number of players divided by the number of factions. in case the division has a non-zero reminder, arbitrarely assing one player more to one of the factions until the number of cards matches exactly the number of players times two.
 
 #### 2. assign factions
-select from the remaining deck all the unique cards with the suits destined to the kids (i.e. ♥ and ♠), shuffle them and let all the kids take one. the suite of the card will determine their faction.
+select from the remaining deck all the unique cards with the suits destined to the kids (i.e. ♥ and ♠), shuffle them and let all the kids take one. the suite of the card will determine their faction;
 
 #### 3. set the tables
 have each game master to sit at one of the tables and give each of them all the cards of one of the remaining suits. once the game masters are all ready, have the kids return the previously drawn card to the game master holding the table corresponding to its faction. the game can now start.
@@ -87,7 +87,7 @@ each round and for each faction:
 
    3. if playing with mana mages, the kid is sent towards the mana mage for the mana color of the pile chosen/initiated.
 
-3. once the last card from the deck has been placed on the board, for each pile, the game master gives one small cone of the mana color for that pile to all the kids with the cards of a number present in the pile. this it to be done as the kids return their round cards to the game master. there might be kids who would get a cone of a color they already have. if this happens while some other kid decided -or had no option other than- to return ir* card, the acquired cone can be give tho the second kid, instead. it will be the mana mages role to hand out the small cones to the kids after the game master declares the round to be over.
+3. once the last card from the deck has been placed on the board, for each pile, the game master gives one small cone of the mana color for that pile to all the kids with the cards of a number present in the pile. this it to be done as the kids return their round cards to the game master. there might be kids who would get a cone of a color they already have. if this happens while some other kid decided -or had no option other than- to return ir* card, the acquired cone can be give tho the second kid, instead. it will be the mana mages role to hand out the small cones to the kids after the game master declares the round to be over;
 
 4. at the end of a round all the kids with all five mana cones raise their hand (the one holding the cones on the tip of the fingers). if all the kids of a faction raise their hand, their fingers are checked to confirm that all the cones are there, then, irregolarities aside, they are declared winners.
 
