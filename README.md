@@ -1,6 +1,8 @@
 # mana-a-mana
 a party game for kids
 
+![](./mana-a-mana.svg)
+
 ## requirements
 this game only requires poker cards and easy-to-craft *extra material*, it can be played indoor, outside, standing or sitting and it allows for up to 52 active players.
 
