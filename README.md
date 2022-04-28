@@ -26,10 +26,10 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 1. one (or two) deck(s) of poker cards
 2. two (or four) separate tables\*
 5. two (or four) adults as *game masters*
-6. a dozen of kids as *active players*
+6. a dozen of kids as *players*
 
 #### ideal
-5. another dozen of kids as *active players*
+5. another dozen of kids as *players*
 6. five non-playing kids/adults as *mana mages*
 
 \*if playing while standing small garden tables are enough
