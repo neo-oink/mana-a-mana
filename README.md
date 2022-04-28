@@ -1,9 +1,31 @@
-# mana-a-mana
+# Mana-a-Mana
 a party game for kids
 
 ![](./mana-a-mana.svg)
 
-## requirements
+## Index
+<span class="toc"><ul>
+<li><a href="#mana-a-mana" title="Mana-a-Mana" smoothhashscroll="">Mana-a-Mana</a><ul>
+<li><a href="#index" title="Index" smoothhashscroll="">Index</a>
+<li><a href="#requirements" title="Requirements" smoothhashscroll="">Requirements</a><ul>
+<li><a href="#to-build-the-extra-material" title="to build the extra material" smoothhashscroll="">to build the extra material</a></li>
+<li><a href="#during-the-game" title="during the game" smoothhashscroll="">during the game</a></li>
+</ul>
+</li>
+<li><a href="#two-vs-four-factions-variant" title="Two vs four-factions variant" smoothhashscroll="">Two vs four-factions variant</a></li>
+<li><a href="#preparation" title="Preparation" smoothhashscroll="">Preparation</a></li>
+<li><a href="#goal-of-the-game" title="Goal of the game" smoothhashscroll="">Goal of the game</a></li>
+<li><a href="#how-to-play" title="How to play" smoothhashscroll="">How to play</a><ul>
+<li><a href="#setup" title="setup" smoothhashscroll="">setup</a></li>
+<li><a href="#rounds" title="rounds" smoothhashscroll="">rounds</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</span>
+
+## Requirements
 this game only requires poker cards and easy-to-craft *extra material*, it can be played indoor, outside, standing or sitting and it allows for up to 52 active players.
 
 > **note**: for the sake of inclusiveness, this game may be unfit for a scenario in which there are kids with certain disabilities (such as missing/malformed hands or colorblindness), unless, of course, measures to allow every kid to play on the same level are taken.
@@ -44,7 +66,7 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 |suits for kids| ♥♠ | ♥♦♠♣ |
 |suits for tables| ♦♣ | ♥♦♠♣ |
 
-## preparation
+## Preparation
 
 #### minimal
 1. cut the paper in small, short stripes to be folded into small finger-size cones, fixed in place with tape and in number greater or equal to the number of kids times five\*;
@@ -58,7 +80,7 @@ this game only requires poker cards and easy-to-craft *extra material*, it can b
 ## goal of the game
 each faction tries to be the first one to have all its members to aquire all five different *mana*. mana is represented by the small paper cones of the corresponding color, to be worn as finger-hats on the fingers of one hand.
 
-## how to play
+## How to play
 
 ### setup
 
