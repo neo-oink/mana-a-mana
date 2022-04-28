@@ -4,7 +4,7 @@ a party game for kids
 ## requirements
 this game only requires poker cards and easy-to-craft *extra material*, it can be played indoor, outside, standing or sitting and it allows for up to 52 active players.
 
-> note: for the sake of inclusiveness, this game may be unfit for a scenario in which there are kids with certain disabilities (such as missing/malformed hands or colorblindness), unless, of course, measures to allow every kid to play on the same level are taken.
+> **note**: for the sake of inclusiveness, this game may be unfit for a scenario in which there are kids with certain disabilities (such as missing/malformed hands or colorblindness), unless, of course, measures to allow every kid to play on the same level are taken.
 
 ### to build the extra material
 
