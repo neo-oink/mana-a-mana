@@ -116,4 +116,4 @@ each round and for each faction:
 
 4. at the end of a round all the kids with all five mana cones raise their hand (the one holding the cones on the tip of the fingers). if all the kids of a faction raise their hand, their fingers are checked to confirm that all the cones are there, then, irregularities aside, they are declared winners.
 
-(*agender pronoun proposed [here](https://kappann.eu/pronomey) as an alternative to "they") 
+(*agender pronoun proposed [here](https://github.com/even-is-odd/pronomey) as an alternative to "they") 
