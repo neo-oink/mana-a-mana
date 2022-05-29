@@ -1,11 +1,11 @@
-# mana-a-mana
+# Mana a Mana
 a party game for kids
 
 ![](./mana-a-mana.svg)
 
 ## Index
 <span class="toc"><ul>
-<li><a href="#mana-a-mana" title="mana-a-mana" smoothhashscroll="">Mana-a-Mana</a><ul>
+<li><a href="#mana-a-mana" title="Mana a Mana" smoothhashscroll="">Mana-a-Mana</a><ul>
 <li><a href="#index" title="Index" smoothhashscroll="">Index</a>
 <li><a href="#requirements" title="Requirements" smoothhashscroll="">Requirements</a><ul>
 <li><a href="#to-build-the-extra-material" title="to build the extra material" smoothhashscroll="">to build the extra material</a></li>
